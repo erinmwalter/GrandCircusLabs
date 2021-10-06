@@ -1,0 +1,14 @@
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\bin\Debug\netcoreapp3.1\ExponentsApp.exe
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\bin\Debug\netcoreapp3.1\ExponentsApp.deps.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\bin\Debug\netcoreapp3.1\ExponentsApp.runtimeconfig.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\bin\Debug\netcoreapp3.1\ExponentsApp.runtimeconfig.dev.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\bin\Debug\netcoreapp3.1\ExponentsApp.dll
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\bin\Debug\netcoreapp3.1\ExponentsApp.pdb
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\obj\Debug\netcoreapp3.1\ExponentsApp.csproj.AssemblyReference.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\obj\Debug\netcoreapp3.1\ExponentsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\obj\Debug\netcoreapp3.1\ExponentsApp.AssemblyInfoInputs.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\obj\Debug\netcoreapp3.1\ExponentsApp.AssemblyInfo.cs
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\obj\Debug\netcoreapp3.1\ExponentsApp.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\obj\Debug\netcoreapp3.1\ExponentsApp.dll
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\obj\Debug\netcoreapp3.1\ExponentsApp.pdb
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ExponentsApp\ExponentsApp\obj\Debug\netcoreapp3.1\ExponentsApp.genruntimeconfig.cache
