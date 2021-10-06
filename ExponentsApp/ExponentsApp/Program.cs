@@ -16,7 +16,7 @@ namespace ExponentsApp
             while (runAgain)
             {
                 //gets value from user
-                int.TryParse(GetInput("\nPlease enter a positive integer: "), out userNumber);
+                int.TryParse(HelperMethods.GetInput("\nPlease enter a positive integer: "), out userNumber);
 
                 //check for valid input, will only display table if input valid.
                 isValid = IsInputValid(userNumber);
@@ -27,7 +27,7 @@ namespace ExponentsApp
                     DisplayTable(userNumber);
                 }
                 //asks user if they want to run again
-                runAgain = Continue();
+                runAgain = HelperMethods.Continue();
             }
 
             Console.WriteLine("Program Exited. Goodbye!");
@@ -87,7 +87,7 @@ namespace ExponentsApp
             //this for loop will display each line of the display table, right aligned.
             for (int i = 1; i <= value; i++)
             {
-                Console.WriteLine($"{i, 10}          {SquareValue(i), 10}         {CubeValue(i),10}");
+                Console.WriteLine($"{i, 10}{SquareValue(i), 20}{CubeValue(i),19}");
             }
         }
 
