@@ -1,0 +1,14 @@
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\bin\Debug\netcoreapp3.1\RoomCalculatorApp.exe
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\bin\Debug\netcoreapp3.1\RoomCalculatorApp.deps.json
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\bin\Debug\netcoreapp3.1\RoomCalculatorApp.runtimeconfig.json
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\bin\Debug\netcoreapp3.1\RoomCalculatorApp.runtimeconfig.dev.json
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\bin\Debug\netcoreapp3.1\RoomCalculatorApp.dll
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\bin\Debug\netcoreapp3.1\RoomCalculatorApp.pdb
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\obj\Debug\netcoreapp3.1\RoomCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\obj\Debug\netcoreapp3.1\RoomCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\obj\Debug\netcoreapp3.1\RoomCalculatorApp.AssemblyInfoInputs.cache
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\obj\Debug\netcoreapp3.1\RoomCalculatorApp.AssemblyInfo.cs
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\obj\Debug\netcoreapp3.1\RoomCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\obj\Debug\netcoreapp3.1\RoomCalculatorApp.dll
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\obj\Debug\netcoreapp3.1\RoomCalculatorApp.pdb
+C:\Users\ewalter\source\repos\RoomCalculatorApp\RoomCalculatorApp\obj\Debug\netcoreapp3.1\RoomCalculatorApp.genruntimeconfig.cache

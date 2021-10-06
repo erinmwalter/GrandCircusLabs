@@ -1,0 +1,14 @@
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\bin\Debug\netcoreapp3.1\NumberAnalyzerApp.exe
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\bin\Debug\netcoreapp3.1\NumberAnalyzerApp.deps.json
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\bin\Debug\netcoreapp3.1\NumberAnalyzerApp.runtimeconfig.json
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\bin\Debug\netcoreapp3.1\NumberAnalyzerApp.runtimeconfig.dev.json
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\bin\Debug\netcoreapp3.1\NumberAnalyzerApp.dll
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\bin\Debug\netcoreapp3.1\NumberAnalyzerApp.pdb
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\obj\Debug\netcoreapp3.1\NumberAnalyzerApp.csproj.AssemblyReference.cache
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\obj\Debug\netcoreapp3.1\NumberAnalyzerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\obj\Debug\netcoreapp3.1\NumberAnalyzerApp.AssemblyInfoInputs.cache
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\obj\Debug\netcoreapp3.1\NumberAnalyzerApp.AssemblyInfo.cs
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\obj\Debug\netcoreapp3.1\NumberAnalyzerApp.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\obj\Debug\netcoreapp3.1\NumberAnalyzerApp.dll
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\obj\Debug\netcoreapp3.1\NumberAnalyzerApp.pdb
+C:\Users\ewalter\devbuild\NumberAnalyzerApp\NumberAnalyzerApp\obj\Debug\netcoreapp3.1\NumberAnalyzerApp.genruntimeconfig.cache
