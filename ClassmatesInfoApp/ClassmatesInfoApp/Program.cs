@@ -105,11 +105,11 @@ namespace ClassmatesInfoApp
                 }
                 else
                 {
-                    Console.WriteLine($"I'm sorry, name was not found. Let's try again...");
+                    Console.WriteLine($"I'm sorry, invalid entry. Let's try again...");
                     continue;
                 }
 
-                runAgain = Continue("Do you want info on another classmate? (y/n): ");
+                runAgain = Continue("\nDo you want info on another classmate? (y/n): ");
             }
 
             Console.WriteLine("Program Exited. Goodbye.");
@@ -147,7 +147,7 @@ namespace ClassmatesInfoApp
         //method displays a menu with options for the user to select once they have chosen a classmate. 
         public static void DisplayOptions(string classmateName)
         {
-            Console.WriteLine($"You Entered: {classmateName}");
+            Console.WriteLine($"\nYou Entered: {classmateName}");
             Console.WriteLine($"What information would you like to know about {classmateName}?");
             Console.WriteLine("1: Hometown.");
             Console.WriteLine("2: Favorite Food.");
@@ -159,7 +159,7 @@ namespace ClassmatesInfoApp
         // method to display the main menu, just to un-crowd the main method. 
         public static void DisplayMainMenu()
         {
-            Console.WriteLine("Main Menu:");
+            Console.WriteLine("\nMain Menu:");
             Console.WriteLine("1: Search by Student Number.");
             Console.WriteLine("2: search by Student Name.");
             Console.WriteLine("3: Exit.");
