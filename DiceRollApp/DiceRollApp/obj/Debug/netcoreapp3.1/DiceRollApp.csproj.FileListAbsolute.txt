@@ -1,0 +1,14 @@
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\bin\Debug\netcoreapp3.1\DiceRollApp.exe
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\bin\Debug\netcoreapp3.1\DiceRollApp.deps.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\bin\Debug\netcoreapp3.1\DiceRollApp.runtimeconfig.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\bin\Debug\netcoreapp3.1\DiceRollApp.runtimeconfig.dev.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\bin\Debug\netcoreapp3.1\DiceRollApp.dll
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\bin\Debug\netcoreapp3.1\DiceRollApp.pdb
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp3.1\DiceRollApp.csproj.AssemblyReference.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp3.1\DiceRollApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp3.1\DiceRollApp.AssemblyInfoInputs.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp3.1\DiceRollApp.AssemblyInfo.cs
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp3.1\DiceRollApp.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp3.1\DiceRollApp.dll
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp3.1\DiceRollApp.pdb
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\DiceRollApp\DiceRollApp\obj\Debug\netcoreapp3.1\DiceRollApp.genruntimeconfig.cache

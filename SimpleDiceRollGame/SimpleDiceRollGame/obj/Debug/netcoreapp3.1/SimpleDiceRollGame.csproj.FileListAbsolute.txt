@@ -1,0 +1,14 @@
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\bin\Debug\netcoreapp3.1\SimpleDiceRollGame.exe
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\bin\Debug\netcoreapp3.1\SimpleDiceRollGame.deps.json
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\bin\Debug\netcoreapp3.1\SimpleDiceRollGame.runtimeconfig.json
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\bin\Debug\netcoreapp3.1\SimpleDiceRollGame.runtimeconfig.dev.json
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\bin\Debug\netcoreapp3.1\SimpleDiceRollGame.dll
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\bin\Debug\netcoreapp3.1\SimpleDiceRollGame.pdb
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\obj\Debug\netcoreapp3.1\SimpleDiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\obj\Debug\netcoreapp3.1\SimpleDiceRollGame.AssemblyInfoInputs.cache
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\obj\Debug\netcoreapp3.1\SimpleDiceRollGame.AssemblyInfo.cs
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\obj\Debug\netcoreapp3.1\SimpleDiceRollGame.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\obj\Debug\netcoreapp3.1\SimpleDiceRollGame.dll
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\obj\Debug\netcoreapp3.1\SimpleDiceRollGame.pdb
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\obj\Debug\netcoreapp3.1\SimpleDiceRollGame.genruntimeconfig.cache
+C:\Users\ewalter\OneDrive - Knex\Desktop\DevBuildRepo\GrandCircusLabs\SimpleDiceRollGame\SimpleDiceRollGame\obj\Debug\netcoreapp3.1\SimpleDiceRollGame.csproj.AssemblyReference.cache

@@ -15,8 +15,11 @@ namespace ExponentsApp
 
             while (runAgain)
             {
-                //gets value from user
-                int.TryParse(HelperMethods.GetInput("\nPlease enter a positive integer: "), out userNumber);
+                //gets value from user, if the value is not able to be parsed (aka it's invalid) defaults user input to 0
+                if(!int.TryParse(HelperMethods.GetInput("\nPlease enter a positive integer: "), out userNumber))
+                {
+                    userNumber = 0;
+                }
 
                 //check for valid input, will only display table if input valid.
                 isValid = IsInputValid(userNumber);
@@ -25,6 +28,11 @@ namespace ExponentsApp
                 {
                     //displays the multiplication table
                     DisplayTable(userNumber);
+                }
+                else
+                {
+                    Console.WriteLine("\nLet's try this again...");
+                    continue; //goes straight back to top of while loop
                 }
                 //asks user if they want to run again
                 runAgain = HelperMethods.Continue();
@@ -59,7 +67,7 @@ namespace ExponentsApp
             }
             else
             {
-                Console.WriteLine("I'm sorry, I didn't understand. Try Again.");
+                Console.WriteLine("\nI'm sorry, I didn't understand. Try Again.");
                 return Continue();
             }
         }
@@ -103,7 +111,7 @@ namespace ExponentsApp
             }
             else
             {
-                Console.WriteLine("I'm sorry, your value was not in the allowed range.");
+                Console.WriteLine("\nI'm sorry, your value was not in the allowed range.");
                 Console.WriteLine("Number must be between 1 and 1290.");
                 return false;
             }
