@@ -9,9 +9,9 @@ namespace PasswordRegistrationLab
         static void Main(string[] args)
         {
             string username, password, userChoice = "0";
-            int dictIndex;
             bool usernameCriteriaMet = false, passwordCriteriaMet = false;
             Dictionary<string, string> userDictionary = new Dictionary<string, string>();
+            //added a "admin" and a dummy username for testing purposes to the dictionary.
             userDictionary.Add("admin", "P@ssw0rd");
             userDictionary.Add("Test123", "Test@456");
 
@@ -21,48 +21,20 @@ namespace PasswordRegistrationLab
             while (userChoice != "4")
             {
                 //displays main menu and gets user input on what they want to do.
-                DisplayMainMenu();
+                AllDisplays.DisplayMainMenu();
                 userChoice = GetInput("Make a selection: ");
                 Console.Clear();
 
+                //based on user choice will execute either branches 1, 2, 3, 4, or "invalid input"
                 if (userChoice == "1")
                 {
-                    //this will display criteria, get username input, and validate input until it is valid.
-                    DisplayUsernameCriteria();
-                    username = GetInput("\nEnter username: ");
-                    while (!usernameCriteriaMet)
-                    {
-                        usernameCriteriaMet = ValidateUsername(username);
-                        foreach (KeyValuePair<string, string> user in userDictionary)
-                        {
-                            //this checks to see if username exists in database, if it does, flips criteria back to false.
-                            if (username == user.Key)
-                            {
-                                Console.WriteLine($"Invalid. Username {username} already exists in database.");
-                                usernameCriteriaMet = false;
-                            }
-                        }
-                        if (!usernameCriteriaMet)
-                        {
-                            Console.WriteLine("Let's Try Again...");
-                            username = GetInput("Enter username: ");
+                    //this will display criteria, get username input, and validate input
+                    AllDisplays.DisplayUsernameCriteria();
+                    username = UsernameMethods.GetValidUsername(userDictionary.Keys.ToList());
 
-                        }
-
-                    }
-
-                    //this will display password criteria, get password input, and validate input until valid. 
-                    DisplayPasswordCriteria();
-                    password = GetInput("\nEnter password: ");
-                    while (!passwordCriteriaMet)
-                    {
-                        passwordCriteriaMet = ValidatePassword(password);
-                        if (!passwordCriteriaMet)
-                        {
-                            Console.WriteLine("Let's Try Again...");
-                            password = GetInput("Enter Password: ");
-                        }
-                    }
+                    //this will display password criteria, get password input, and validate input
+                    AllDisplays.DisplayPasswordCriteria();
+                    password = PasswordMethods.GetValidPassword();
 
                     //now that everything is valid and username is confirmed to be unique, will add to the dictionary
                     userDictionary.Add(username, password);
@@ -77,9 +49,7 @@ namespace PasswordRegistrationLab
 
                     if(userDictionary.ContainsKey(username) && (userDictionary.Keys.ToList().IndexOf(username) == userDictionary.Values.ToList().IndexOf(password)))
                     {
-                        Console.WriteLine("WELCOME BACK USER!");
-                        Console.WriteLine("Press Any Key to Continue...");
-                        Console.ReadKey();
+                        AllDisplays.DisplaySuccessfulLoginScreen();
                     }
                     else
                     {
@@ -90,8 +60,8 @@ namespace PasswordRegistrationLab
                 else if(userChoice == "3")
                 {
                     Console.WriteLine("WARNING...ADMIN ONLY!");
-                    username = GetInput("Enter your username: ");
-                    password = GetInput("Enter your password: ");
+                    username = GetInput("Enter admin username: ");
+                    password = GetInput("Enter admin password: ");
 
                     if (username == "admin" && password == "P@ssw0rd")
                     {
@@ -122,29 +92,6 @@ namespace PasswordRegistrationLab
 
         }
 
-
-        //this method displays the username criteria to the user. 
-        public static void DisplayPasswordCriteria()
-        {
-            Console.WriteLine("\nPlease Enter a new password, here are your constraints:");
-            Console.WriteLine("Must contain at least one lowercase letter.");
-            Console.WriteLine("Must contain at least one upper case letter.");
-            Console.WriteLine("Must contain at least one number.");
-            Console.WriteLine("Must contain one special character: !, @, #, $, %, ^, &, *");
-            Console.WriteLine("Must be minimum 7 characters, maximum 12 characters.");
-            Console.WriteLine("Must not contain: the word password or company name (Rocket).");
-        }
-
-        //method will display the password criteria to the user. 
-        public static void DisplayUsernameCriteria()
-        {
-            Console.WriteLine("\nPlease Enter a username, here are your constraints:");
-            Console.WriteLine("Must contain both letters and numbers.");
-            Console.WriteLine("Must have at least 5 letters.");
-            Console.WriteLine("Must be at minimum 7 characters, maximum 12 characters");
-            Console.WriteLine("Must not contain words Circus, Rocket, or DevBuild");
-        }
-
         //this method will get sent a string prompt and return a string as user input.
         public static string GetInput(string prompt)
         {
@@ -155,144 +102,5 @@ namespace PasswordRegistrationLab
         }
 
 
-        //this method will be used to validate the password entry from the user
-        //to make sure it is in line with all requirements
-        public static bool ValidatePassword(string userEntry)
-        {
-            bool allCriteriaMet = true;
-
-            //checking for minimum length requirement
-            if (userEntry.Length < 7)
-            {
-                Console.WriteLine("Invalid. Password must contain at least 7 characters.");
-                allCriteriaMet = false;
-            }
-
-            //checking for max length requirement
-            if (userEntry.Length > 12)
-            {
-                Console.WriteLine("Invalid. Password must contain maximum 12 characters.");
-                allCriteriaMet = false;
-            }
-            
-            //checking for special character requirement
-            if(!(userEntry.Contains('!') || userEntry.Contains('@') || userEntry.Contains('#') || userEntry.Contains('$') || userEntry.Contains('%') 
-                || userEntry.Contains('^') || userEntry.Contains('&') || userEntry.Contains('*'))) {
-                Console.WriteLine("Invalid. Password must contain a special character: !, @, #, $, %, ^, &, or *");
-                allCriteriaMet = false;
-            }
-
-            //checking for number requirement
-            if(!userEntry.Any(char.IsDigit)) {
-                Console.WriteLine("Invalid. Password must contain a number 0-9.");
-                allCriteriaMet = false;
-            }
-
-            //checking for Uppercase letter requirement
-            if(!userEntry.Any(char.IsUpper))
-            {
-                allCriteriaMet = false;
-                Console.WriteLine("Invalid. Password must contain Uppercase Letter.");
-            }
-
-            //checking for lowercase letter requirement 
-            if(!userEntry.Any(char.IsLower))
-            {
-                allCriteriaMet = false;
-                Console.WriteLine("Invalid. Password must contain Lowercase letter.");
-            }
-
-            if(userEntry.ToLower().Contains("password") || userEntry.ToLower().Contains("rocket"))
-            {
-                allCriteriaMet = false;
-                Console.WriteLine("Invalid. Password cannot contain words password or rocket.");
-            }
-
-            //if NOTHING trips the allCriteriaMet bool to turn false, then the input is
-            //validated and this returns true. else returns false. 
-            if (allCriteriaMet)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-
-
-        }
-
-        //this method will be used to validate the username entry to make sure it 
-        //follows the requirements.
-        public static bool ValidateUsername(string userEntry)
-        {
-            bool allCriteriaMet = true;
-            int letterCount = 0;
-
-            //checking for minimum length requirement
-            if (userEntry.Length < 7)
-            {
-                Console.WriteLine("Invalid. Username must contain at least 7 characters.");
-                allCriteriaMet = false;
-            }
-
-            //checking for max length requirement
-            if (userEntry.Length > 12)
-            {
-                Console.WriteLine("Invalid. Username must contain maximum 12 characters.");
-                allCriteriaMet = false;
-            }
-
-            //checking for number requirement
-            if (!userEntry.Any(char.IsDigit))
-            {
-                Console.WriteLine("Invalid. Username must contain a number 0-9.");
-                allCriteriaMet = false;
-            }
-
-            //checking for at least 5 letters requirement
-            foreach (char c in userEntry)
-            {
-                if (char.IsLetter(c)) 
-                {
-                    letterCount++;
-                    //runs through a loop to count how many letters the username has
-                }
-            }
-            if(letterCount < 5)
-            {
-                Console.WriteLine("Invalid, username must contain at least 5 letters.");
-                allCriteriaMet = false;
-            }
-
-            if (userEntry.ToLower().Contains("circus") || userEntry.ToLower().Contains("rocket") || userEntry.ToLower().Contains("devbuild"))
-            {
-                allCriteriaMet = false;
-                Console.WriteLine("Invalid. Password cannot contain words password or rocket.");
-            }
-
-
-            //if NOTHING has tripped the allCriteriaMet bool to turn false, 
-            //that means the input is valid, and returns true. otherwise, returns false.
-            if (allCriteriaMet)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-
-        }
-
-        //method to display the main menu to the user to select from. 
-        public static void DisplayMainMenu()
-        {
-            Console.WriteLine("Main Menu:");
-            Console.WriteLine("1. New User.");
-            Console.WriteLine("2. Existing User Login");
-            Console.WriteLine("3. ADMIN ONLY: View All Users");
-            Console.WriteLine("4. Exit");
-        }
     }
 }
