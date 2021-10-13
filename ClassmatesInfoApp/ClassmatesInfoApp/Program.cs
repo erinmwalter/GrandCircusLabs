@@ -99,7 +99,8 @@ namespace ClassmatesInfoApp
                             continue;
                         }
 
-                        //moreInfo = Continue($"Do you want another piece of info for {studentFirstNames[classmateIndex]}? (y/n): ");
+                        //removed this continue ask once demoing and realizing it was unneeded. 
+                        //moreInfo = Continue($"Do you want another piece of info for {studentFirstNames[classmateIndex]}? (y/n): "); //this is superfluous and does same thing as user choice = 4.
                      }
 
                 }
