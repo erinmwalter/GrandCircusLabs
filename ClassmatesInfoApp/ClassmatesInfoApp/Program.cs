@@ -99,7 +99,7 @@ namespace ClassmatesInfoApp
                             continue;
                         }
 
-                        moreInfo = Continue($"Do you want another piece of info for {studentFirstNames[classmateIndex]}? (y/n): ");
+                        //moreInfo = Continue($"Do you want another piece of info for {studentFirstNames[classmateIndex]}? (y/n): ");
                      }
 
                 }
