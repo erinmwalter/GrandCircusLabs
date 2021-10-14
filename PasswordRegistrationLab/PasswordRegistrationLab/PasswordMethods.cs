@@ -77,6 +77,7 @@ namespace PasswordRegistrationLab
                 Console.WriteLine("Invalid. Password must contain Lowercase letter.");
             }
 
+            //checking for forbidden words
             if (userEntry.ToLower().Contains("password") || userEntry.ToLower().Contains("rocket"))
             {
                 allCriteriaMet = false;

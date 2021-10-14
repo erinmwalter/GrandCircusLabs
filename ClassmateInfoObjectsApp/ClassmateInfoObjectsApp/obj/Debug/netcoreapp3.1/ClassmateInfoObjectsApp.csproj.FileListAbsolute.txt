@@ -1,0 +1,28 @@
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.csproj.AssemblyReference.cache
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.AssemblyInfoInputs.cache
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.AssemblyInfo.cs
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\bin\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.exe
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\bin\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.deps.json
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\bin\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.runtimeconfig.json
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\bin\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.runtimeconfig.dev.json
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\bin\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.dll
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\bin\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.pdb
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.dll
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.pdb
+C:\Users\ewalter\source\repos\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.genruntimeconfig.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\bin\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.exe
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\bin\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.deps.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\bin\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.runtimeconfig.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\bin\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.runtimeconfig.dev.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\bin\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.dll
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\bin\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.pdb
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.csproj.AssemblyReference.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.AssemblyInfoInputs.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.AssemblyInfo.cs
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.dll
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.pdb
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\ClassmateInfoObjectsApp\ClassmateInfoObjectsApp\obj\Debug\netcoreapp3.1\ClassmateInfoObjectsApp.genruntimeconfig.cache
