@@ -9,13 +9,12 @@ namespace PasswordRegistrationLab
         static void Main(string[] args)
         {
             string username, password, userChoice = "0";
-            bool usernameCriteriaMet = false, passwordCriteriaMet = false;
             Dictionary<string, string> userDictionary = new Dictionary<string, string>();
             //added a "admin" and a dummy username for testing purposes to the dictionary.
             userDictionary.Add("admin", "P@ssw0rd");
             userDictionary.Add("Test123", "Test@456");
 
-            //first will ask for user's first and last name (will be used in password validation later)
+            
             Console.WriteLine("Welcome to the Password Registration App.");
 
             while (userChoice != "4")
