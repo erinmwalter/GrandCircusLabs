@@ -1,0 +1,14 @@
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\bin\Debug\netcoreapp3.1\ATMApp.exe
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\bin\Debug\netcoreapp3.1\ATMApp.deps.json
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\bin\Debug\netcoreapp3.1\ATMApp.runtimeconfig.json
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\bin\Debug\netcoreapp3.1\ATMApp.runtimeconfig.dev.json
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\bin\Debug\netcoreapp3.1\ATMApp.dll
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\bin\Debug\netcoreapp3.1\ATMApp.pdb
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.csproj.AssemblyReference.cache
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.AssemblyInfoInputs.cache
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.AssemblyInfo.cs
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.dll
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.pdb
+C:\Users\ewalter\source\repos\ATMApp\ATMApp\obj\Debug\netcoreapp3.1\ATMApp.genruntimeconfig.cache
