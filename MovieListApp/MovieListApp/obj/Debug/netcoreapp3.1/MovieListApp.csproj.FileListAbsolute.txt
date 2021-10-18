@@ -1,0 +1,14 @@
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\bin\Debug\netcoreapp3.1\MovieListApp.exe
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\bin\Debug\netcoreapp3.1\MovieListApp.deps.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\bin\Debug\netcoreapp3.1\MovieListApp.runtimeconfig.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\bin\Debug\netcoreapp3.1\MovieListApp.runtimeconfig.dev.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\bin\Debug\netcoreapp3.1\MovieListApp.dll
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\bin\Debug\netcoreapp3.1\MovieListApp.pdb
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\obj\Debug\netcoreapp3.1\MovieListApp.csproj.AssemblyReference.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\obj\Debug\netcoreapp3.1\MovieListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\obj\Debug\netcoreapp3.1\MovieListApp.AssemblyInfoInputs.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\obj\Debug\netcoreapp3.1\MovieListApp.AssemblyInfo.cs
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\obj\Debug\netcoreapp3.1\MovieListApp.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\obj\Debug\netcoreapp3.1\MovieListApp.dll
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\obj\Debug\netcoreapp3.1\MovieListApp.pdb
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\MovieListApp\MovieListApp\obj\Debug\netcoreapp3.1\MovieListApp.genruntimeconfig.cache
