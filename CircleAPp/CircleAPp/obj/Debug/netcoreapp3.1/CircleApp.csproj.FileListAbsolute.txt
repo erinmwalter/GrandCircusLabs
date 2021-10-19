@@ -1,0 +1,14 @@
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\obj\Debug\netcoreapp3.1\CircleApp.csproj.AssemblyReference.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\obj\Debug\netcoreapp3.1\CircleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\obj\Debug\netcoreapp3.1\CircleApp.AssemblyInfoInputs.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\obj\Debug\netcoreapp3.1\CircleApp.AssemblyInfo.cs
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\obj\Debug\netcoreapp3.1\CircleApp.csproj.CoreCompileInputs.cache
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\bin\Debug\netcoreapp3.1\CircleApp.exe
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\bin\Debug\netcoreapp3.1\CircleApp.deps.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\bin\Debug\netcoreapp3.1\CircleApp.runtimeconfig.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\bin\Debug\netcoreapp3.1\CircleApp.runtimeconfig.dev.json
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\bin\Debug\netcoreapp3.1\CircleApp.dll
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\bin\Debug\netcoreapp3.1\CircleApp.pdb
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\obj\Debug\netcoreapp3.1\CircleApp.dll
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\obj\Debug\netcoreapp3.1\CircleApp.pdb
+C:\Users\ewalter\OneDrive - KNEX\Desktop\DevBuildRepo\GrandCircusLabs\CircleAPp\CircleAPp\obj\Debug\netcoreapp3.1\CircleApp.genruntimeconfig.cache
